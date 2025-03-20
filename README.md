@@ -1,5 +1,10 @@
 # Lenguaje de Programación 2 - Taller 1
 
+![commits](https://badgen.net/github/commits/UR-CC/lp2-taller1?icon=github) 
+![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller1)
+
+- ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
+
 ## Autores
 
 - [@estudiante1](https://www.github.com/estudiante1)
@@ -10,11 +15,6 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam dolor. Quisque elementum est sed massa gravida convallis. Donec volutpat turpis eget lectus feugiat congue. Morbi rutrum auctor eleifend. Etiam iaculis libero tellus, vel aliquet erat tempor sed. Duis efficitur quam vel sapien luctus, sed semper lacus mollis. Suspendisse non nunc eleifend, aliquet elit eget, condimentum augue.
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel nibh fringilla, porta elit vel, consequat libero. Nulla et libero ac nulla ultricies sollicitudin. Sed viverra non nulla id convallis. Morbi vel varius lacus, in maximus nunc. Praesent sed semper diam. Pellentesque vehicula nulla augue, ut porta dolor consequat at.
-
-![commits](https://badgen.net/github/commits/UR-CC/lp2-taller1?icon=github)
-![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller1)
-
-- ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
 
 ## Instalación
 
