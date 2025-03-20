@@ -1,4 +1,4 @@
-# Lenguaje de Programación 1 - Taller 1
+# Lenguaje de Programación 2 - Taller 1
 
 ## Autores
 
