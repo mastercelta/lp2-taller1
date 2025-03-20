@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut quam dolor. 
 
 Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus vel nibh fringilla, porta elit vel, consequat libero. Nulla et libero ac nulla ultricies sollicitudin. Sed viverra non nulla id convallis. Morbi vel varius lacus, in maximus nunc. Praesent sed semper diam. Pellentesque vehicula nulla augue, ut porta dolor consequat at.
 
-![commits](https://badgen.net/github/commits/micromatch/micromatch?icon=github)
+![commits](https://badgen.net/github/commits/UR-CC/lp2-taller1?icon=github)
 ![last_commit](https://img.shields.io/github/last-commit/UR-CC/lp2-taller1)
 
 - ver [badgen](https://badgen.net/) o [shields](https://shields.io/) para otros tipos de _badges_
