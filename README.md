@@ -26,7 +26,7 @@ git clone https://github.com/UR-CC/lp2-taller1.git
 ```
 
 ## Entorno virtual mac
-
+1. Instalar librerías y dependencias
 ```bash
 cd lp2-taller1
 python -m venv venv
@@ -37,9 +37,23 @@ venv/bin/activate
 pip install -r requirements
 ```
 ## Entorno virtual windows
-3. Instalar librerías y dependencias
+1. Instalar librerías y dependencias
+```bash
+cd lp2-taller1
+python -m venv venv
+venv\Scripts\Activate.ps1
+```
+
+2. Instalar librerías y dependencias
 ```bash
 pip install -r requirements
+```
+
+# Errors windows
+Si te sale un error de ejecucion de scripts ejecuta esta comando
+
+```bash
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 
     
