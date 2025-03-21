@@ -1,8 +1,14 @@
 <html>
 <head>
-    <title>Hola Mundo</title>
-</head>
-<body>
-    <h1>Hola Mundo</h1>
-</body>
+    <title>Tienda</title>
+    <body>
+    <h1>Bienvenido a la tienda</h1>
+    <h2>Productos</h2>
+    <p>Selecciona un producto para ver más detalles</p>
+    <ol>
+    {% for producto in productos %}
+        <li><a href="/producto/{{ producto.nombre }}">{{ producto.nombre }}</a></li>
+    {% endfor %}
+    </ol>
+    </body>
 </html>
